@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tetris</title>
+        <link rel='stylesheet' href='style.css' />
+    </head>
+    <body>
+        <div class='game'>
+          <img src='assets/tetris-logo.jpg' class='logo'>
+          <div class='info-pane'>
+            <div class='score' id='score'>
+            </div>
+            <div class='next-piece'>
+            </div>
+            <div class='new-game'>
+              <h3>New Game</h3>
+            </div>
+            <div class='controls'>
+            </div>
+          </div>
+          <canvas width='400' height='800'></canvas>
+          <script src='lib/tetris.js'></script>
+          <script src='lib/render.js'></script>
+          <script src='lib/controller.js'></script>
+        </div>
+    </body>
+</html>

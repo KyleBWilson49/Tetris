@@ -1,0 +1,98 @@
+
+canvas {
+  border: 1px solid #999;
+  background: black;
+  float: left;
+}
+
+body {
+  background: url(assets/background.jpg);
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+.logo {
+    width: 300px;
+    height: 100px;
+    margin-left: 210px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.info-pane {
+  width: 200px;
+  height: 800px;
+  background: black;
+  float: right;
+  border: 1px solid #999;
+
+}
+
+.game {
+  width: 650px;
+  height: 800px;
+  margin: auto;
+}
+
+.score {
+  height: 50px;
+  width: 150px;
+  margin-top: 70px;
+  float: right;
+  background: white;
+  border-radius: 5px;
+  margin-right: 20px;
+  font-size: 35px;
+  text-align: center;
+}
+
+.next-piece {
+  height: 150px;
+  width: 150px;
+  float: right;
+  background: white;
+  border-radius: 5px;
+  margin-top: 70px;
+  margin-right: 20px;
+}
+
+.controls {
+  height: 150px;
+  width: 200px;
+  float: right;
+  background: black;
+  margin-top: 70px;
+  background-image: url(assets/arrow-keys.jpg);
+  background-position: center;
+  overflow: hidden;
+}
+
+.new-game {
+  height: 50px;
+  width: 150px;
+  float: right;
+  background: white;
+  border-radius: 5px;
+  margin-top: 70px;
+  margin-right: 20px;
+  border: 1px solid black;
+}
+
+.new-game h3 {
+  margin-left: 30px;
+  margin-top: 12px;
+}
+
+.new-game:hover {
+  background: #ddd;
+}
+
+IMG {
+  width: 90px;
+  height: 60px;
+  margin-left: 30px;
+  margin-top: 40px;
+}
