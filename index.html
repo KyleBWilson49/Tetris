@@ -5,9 +5,21 @@
         <link rel='stylesheet' href='style.css' />
     </head>
     <body>
-        <canvas width='300' height='600'></canvas>
-        <script src='lib/tetris.js'></script>
-        <script src='lib/controller.js'></script>
-        <script src='lib/render.js'></script>
+        <h1>Tetris</h1>
+        <div class='game'>
+          <canvas width='400' height='800'></canvas>
+          <div class='score' id='score'>
+          </div>
+          <div class='next-piece'>
+          </div>
+          <div class='new-game'>
+            New Game
+          </div>
+          <div class='controls'>
+          </div>
+          <script src='lib/tetris.js'></script>
+          <script src='lib/render.js'></script>
+          <script src='lib/controller.js'></script>
+        </div>
     </body>
 </html>
