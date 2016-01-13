@@ -13,6 +13,8 @@ Left and Right arrows move the piece side to side
 Up arrow will rotate piece
 Down arrow will drop piece faster
 
-[Author's Portfolio][portfolio] need to add link to this
+## About
+
+[Author's Portfolio][portfolio]
 
 [portfolio]: http://kylebwilson49.github.io/
