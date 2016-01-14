@@ -13,6 +13,10 @@ Left and Right arrows move the piece side to side
 Up arrow will rotate piece
 Down arrow will drop piece faster
 
+# Gameplay
+
+![gameplay][assets/play.gif]
+
 ## About
 
 [Author's Portfolio][portfolio]
