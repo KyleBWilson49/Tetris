@@ -18,6 +18,7 @@ body {
     width: 300px;
     height: 100px;
     margin-left: 210px;
+    margin-top: 0px;
 }
 
 .info-pane {
@@ -102,5 +103,5 @@ IMG {
   width: 90px;
   height: 60px;
   margin-left: 30px;
-  /*margin-top: 40px;*/
+  margin-top: 40px;
 }
