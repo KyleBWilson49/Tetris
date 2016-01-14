@@ -15,7 +15,7 @@ Down arrow will drop piece faster
 
 # Gameplay
 
-![gameplay][assets/play.gif]
+![gameplay](assets/play.gif)
 
 ## About
 
