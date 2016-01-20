@@ -54,7 +54,7 @@ body {
   float: right;
   background: white;
   border-radius: 5px;
-  margin-top: 50px;
+  margin-top: 40px;
   margin-right: 20px;
 }
 
@@ -73,7 +73,7 @@ h2 {
   width: 200px;
   float: right;
   background: black;
-  margin-top: 50px;
+  margin-top: 40px;
   background-image: url(assets/arrow-keys.jpg);
   background-position: center;
   overflow: hidden;
@@ -85,7 +85,7 @@ h2 {
   float: right;
   background: white;
   border-radius: 5px;
-  margin-top: 50px;
+  margin-top: 40px;
   margin-right: 20px;
   border: 1px solid black;
 }
